@@ -1,2 +1,2 @@
 # bot
-wow pixelbot script
+WIP: wow pixelbot script
