@@ -1,0 +1,2 @@
+# bot
+wow pixelbot script
